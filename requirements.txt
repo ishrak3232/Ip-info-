@@ -1,0 +1,6 @@
+argparse
+requests
+sys
+os
+colorama
+time
