@@ -4,3 +4,5 @@ sys
 os
 colorama
 time
+geopy
+ipinfo
