@@ -5,7 +5,6 @@ from colorama import Fore, Style, Back
 import time
 import ipinfo
 from ipinfo import *
-import webbrowser
 import geopy
 from geopy.geocoders import Nominatim
 
