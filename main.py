@@ -45,3 +45,5 @@ print(f"{Fore.LIGHTRED_EX} address: "+url)
 last = input("press enter to exit....")
 if last == "":
     os.system('exit')
+else:
+    os.close
